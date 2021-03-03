@@ -1,6 +1,6 @@
 # ISS_lab
 
-MONITORIZARE ANGAJATI
+MONITORIZARE ANGAJATI:
   O firma si-a creat o infrastructura prin care seful monitorizeaza angajatii prezenti la lucru si le traseaza
 sarcini individuale. Firma are o aplicatie care ofera:
   1. o fereastra pentru sef, cu ajutorul careia seful vede lista angajatilor prezenti în firma, un
