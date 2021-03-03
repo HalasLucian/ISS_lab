@@ -7,7 +7,7 @@ sarcini individuale. Firma are o aplicatie care ofera:
 element din lista precizând numele angajatului si ora la care s-a logat în sistem. De asemenea,
 seful poate transmite o sarcina unui angajat prezent astfel: selecteaza angajatul din lista,
 introduce o descriere a sarcinii si declanseaza un buton "transmite sarcina". Imediat dupa
-transmiterea unei sarcini, aceasta poate fi consultata de catre angajatul respectiv si de catre sefi. 
+transmiterea unei sarcini, aceasta poate fi consultata de catre angajatul respectiv si de catre sef. 
 Fiecare sarcina are un status reprezentat de o culoare de background: rosu - trebuie realizata, 
 galben - in curs de realizare, verde - finalizata. La inceputul unei zile noi, sarcinile terminate nu vor 
 mai aparea in lista angajatului sau sefului.
