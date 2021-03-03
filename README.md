@@ -16,5 +16,5 @@ sosirii si declanseaza un buton "prezent". Imediat dupa declansarea butonului, s
 lista lui ca angajatul este prezent. În continuare, cât timp angajatul sta la serviciu, el primeste
 si, în consecinta, vede în fereastra lui, sarcinile transmise de sef. La plecare, angajatul închide
 fereastra, moment în care seful este notificat de delogarea acestuia din sistem.  
-  4. seful va avea pe fereastra un buton care va genera un raport cu toate sarcinile indeplinite intr-o 
+  4. seful va avea pe fereastra un buton care, la apasare, va genera un raport cu toate sarcinile indeplinite intr-o 
 perioada calendaristica selectata.
