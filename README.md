@@ -13,9 +13,9 @@ Fiecare sarcina are un status reprezentat de o culoare de background: rosu - tre
 galben - in curs de realizare, verde - finalizata. La inceputul unei zile noi, sarcinile terminate nu vor 
 mai aparea in lista angajatului sau sefului.
   2. *câte o fereastra pentru fiecare angajat:* Atunci când angajatul vine la serviciu, introduce ora
-sosirii si declanseaza un buton "prezent". Imediat dupa declansarea butonului, seful vede în
+sosirii si numele si declanseaza un buton "prezent". Imediat dupa declansarea butonului, seful vede în
 lista lui ca angajatul este prezent. În continuare, cât timp angajatul sta la serviciu, el primeste
 si, în consecinta, vede în fereastra lui, sarcinile transmise de sef. La plecare, angajatul închide
 fereastra, moment în care seful este notificat de delogarea acestuia din sistem.  
-  4. seful va avea pe fereastra un *buton* care, la apasare, va *genera un raport* cu toate sarcinile indeplinite intr-o 
+  3. seful va avea pe fereastra un *buton* care, la apasare, va *genera un raport* cu toate sarcinile indeplinite intr-o 
 perioada calendaristica selectata.
